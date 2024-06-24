@@ -7,7 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://wayne-zhan.github.io/github-pages-demo/',
+  base: '/github-pages-demo/',
   build: {
     outDir: 'docs'
   },
